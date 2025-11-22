@@ -1,6 +1,6 @@
 # 📱 Tigrinya Word Connect Game (ትግርኛ ቃላት ምምስራት)
 
-I’m excited to share that I’ve developed and published **Tigrinya Word Connect** on the **Google Play Store**! 🎉
+I’m excited to share that I’ve developed and published **Tigrinya Word Connect Game** on the **Google Play Store**! 🎉
 Download for Android:
 [Download Here](https://play.google.com/store/apps/details?id=com.eyasuberhane.tigrinaywordgames)
 
@@ -80,10 +80,19 @@ Tigrinya is a Semitic language spoken mainly in Eritrea and the Tigray region of
 ## 📸 App Screenshot
 
 
-![App Screenshot](./screenshot_image/photo_2025-10-23_23-09-46.jpg))
-![App Screenshot](./screenshot_image/photo_2025-10-23_23-09-44.jpg)
-![App Screenshot](./screenshot_image/photo_2025-10-23_23-09-35.jpg)
-![App Screenshot](./screenshot_image/photo_2025-10-23_23-09-33.jpg)
+<!-- Row 1 -->
+<p align="left">
+  <img src="screenshot_image/photo_2025-10-23_23-09-46.jpg" width="200" />
+  <img src="screenshot_image/photo_2025-10-23_23-09-44.jpg" width="200" />
+</p>
+
+<!-- Row 2 -->
+<p align="left">
+  <img src="screenshot_image/photo_2025-10-23_23-09-35.jpg" width="200" />
+  <img src="screenshot_image/photo_2025-10-23_23-09-33.jpg" width="200" />
+</p>
+
+
 
 
 
