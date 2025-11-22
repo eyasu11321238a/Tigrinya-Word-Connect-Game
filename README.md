@@ -2,7 +2,7 @@
 
 I’m excited to share that I’ve developed and published **Tigrinya Word Connect** on the **Google Play Store**! 🎉
 Download for Android:
-[https://lnkd.in/eMp9MmhP](https://lnkd.in/eMp9MmhP)
+[Download Here](https://play.google.com/store/apps/details?id=com.eyasuberhane.tigrinaywordgames)
 
 ---
 
