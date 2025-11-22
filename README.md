@@ -80,7 +80,7 @@ Tigrinya is a Semitic language spoken mainly in Eritrea and the Tigray region of
 ## 📸 App Screenshot
 
 ```
-![App Screenshot](path/to/your/screenshot.png)
+![App Screenshot](screenshot_image/photo_2025-10-23_23-09-46.jpg)
 ```
 
 
