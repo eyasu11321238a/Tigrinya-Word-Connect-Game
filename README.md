@@ -1,7 +1,7 @@
 # 📱 Tigrinya Word Connect Game (ትግርኛ ቃላት ምምስራት)
 
 I’m excited to share that I’ve developed and published **Tigrinya Word Connect Game** on the **Google Play Store**! 🎉
-Download for Android:
+Download for Android Phone:
 [Download Here](https://play.google.com/store/apps/details?id=com.eyasuberhane.tigrinaywordgames)
 
 ---
